@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Santos
+# 🧑🏻‍💻 Lucas Santos
 
 **`Desenvolvedor Front-end`**
 
